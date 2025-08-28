@@ -54,7 +54,10 @@ def get_model_configs():
         "lunala": {"path": r"./models/lunala/lunala.obj", "scale": 6.23},
         "lapras": {"path": r"./models/lapras/lapras.obj", "scale": 0.0318},
         "golbat": {"path": r"./models/golbat/golbat.obj", "scale": 0.04},
-        "rocket_orbiting_moon": {"path": r"./models/rocket_orbiting_moon/rocket_orbiting_moon.obj", "scale": 0.04},
+        "rocket_orbiting_moon": {
+            "path": r"./models/rocket_orbiting_moon/rocket_orbiting_moon.obj",
+            "scale": 0.0017,
+        },
     }
 
 
