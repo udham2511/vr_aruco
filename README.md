@@ -7,6 +7,10 @@ It features a clean modular architecture, optimized performance, and real-time i
 
 ---
 
+![Demo Preview](https://github.com/udham2511/vr_aruco/blob/main/docs/assets/demo.gif)
+
+---
+
 ## 🚀 Features
 
 * ✅ Performance optimizations (display lists, caching, efficient NumPy ops)
@@ -148,4 +152,4 @@ pygame
 
 ## 📜 License
 
-MIT License (or your chosen license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
